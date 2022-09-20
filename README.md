@@ -1,1 +1,5 @@
 # Big-Mart-Sales
+The aim is to build a predictive model and find out the sales of each product at a particular store. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales
+Forecasting sales is a common and essential use of machine learning (ML). Sales forecasts can be used to identify benchmarks and determine incremental impacts of new initiatives, plan resources in response to expected demand, and project future budgets.
+It is determining present-day or future sales using data like past sales, seasonality, festivities, economic conditions, etc. So, this model will predict sales on a certain day after being provided with a certain set of inputs. In this model 8 parameters were used as input: past seven day sales
+The “Opportunity Stage” Sales Forecasting Method. Concept: Of all the sales forecasting methods in the world, this one is probably the most popular. This model predicts the probability of an opportunity to close based on where the prospect currently is in your sales process
